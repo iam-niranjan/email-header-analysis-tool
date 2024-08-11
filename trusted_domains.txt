@@ -1,0 +1,6 @@
+example.com
+trusteddomain.org
+company.net
+google.com
+apple.com
+outlook.com
